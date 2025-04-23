@@ -1,4 +1,4 @@
-## 🌋 Volcano Mapping Project
+## 🌋 Mapzine: Volcano Mapping Project
 
 Interactive geographic visualization of global volcanoes with population density data.
 
