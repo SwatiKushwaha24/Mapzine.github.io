@@ -10,8 +10,8 @@ Interactive geographic visualization of global volcanoes with population density
 
 **How to Use:**
 1. Install requirements: `pip install folium pandas`
-2. Run script: `python scripts/volcano_mapper.py`
-3. Open `outputs/Mapzine.html` in browser
+2. Run script: `python volcano_mapper.py`
+3. Open `Mapzine.html` in browser
 
 **HLive Map:**
 https://swatikushwaha24.github.io/Mapzine.github.io/Mapzine.html
