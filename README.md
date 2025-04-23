@@ -13,5 +13,5 @@ Interactive geographic visualization of global volcanoes with population density
 2. Run script: `python volcano_mapper.py`
 3. Open `Mapzine.html` in browser
 
-**HLive Map:**
+**Live Map:**
 https://swatikushwaha24.github.io/Mapzine.github.io/Mapzine.html
